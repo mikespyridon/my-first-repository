@@ -4,3 +4,4 @@
 
 - example_file.txt
 - Git basics
+- Making a change
